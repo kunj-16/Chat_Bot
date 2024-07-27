@@ -33,3 +33,5 @@ Dependencies-
 - 'google-generativeai'
 - 'pypdf2'
 - 'langchain-google-genai'
+
+  Linkedin post link: https://www.linkedin.com/posts/kunj-bhasin-95ba49288_ai-chatbot-ml-activity-7222936758626213888-BfTz?utm_source=share&utm_medium=member_desktop
